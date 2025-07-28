@@ -3,7 +3,7 @@
 개인 할당으로 진행한 부분의 코드입니다  
   
 관련 문서  
-notion : https://cyclic-close-b99.notion.site/Project3-e39ed96bc9b547f8a7a66ad15cdef44c?source=copy_link  
+notion : https://cyclic-close-b99.notion.site/Project3-e39ed96bc9b547f8a7a66ad15cdef44c  
 
 다른 프로젝트  
 폐 결절 양성/악성 분류 : https://github.com/lsysungyeob/hkit_project01  
